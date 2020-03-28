@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\MyprojecsApp\\MyprojecsApp.csproj",
+      "projectUniqueName": "C:\\projects\\Dop.Zadach-26-03-20\\MyprojecsApp.csproj",
       "projectName": "MyprojecsApp",
-      "projectPath": "C:\\projects\\MyprojecsApp\\MyprojecsApp.csproj",
+      "projectPath": "C:\\projects\\Dop.Zadach-26-03-20\\MyprojecsApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\MyprojecsApp\\obj\\",
+      "outputPath": "C:\\projects\\Dop.Zadach-26-03-20\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
